@@ -1,0 +1,16 @@
+.nav {
+  background-color: rgba(151, 226, 239, 0.8);
+}
+
+.calendar__cell {
+  height: 50px;
+  text-align: center;
+  background: rgba(151, 226, 239, 0.8);
+  box-shadow: 0 0 1px rgba(151, 226, 239, 0.25);
+  border: solid #52a452;
+  border-radius: 12px;
+  margin: 0 37px 37px;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=styles.css.map */
